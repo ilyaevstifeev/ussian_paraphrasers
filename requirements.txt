@@ -1,0 +1,5 @@
+sentence-transformers==0.4.0
+transformers>=4.0.1
+nltk
+scipy
+git+https://github.com/ilyaevstifeev/nlg-eval.git@master
